@@ -1,0 +1,137 @@
+Kalen Gladu-Lauridsen, Louis Riel, 179, Male
+Moiz Mohamad,All Saints,44,"Male, Novice -1st year wrestler"
+Ryan Joyce,All Saints,54,"Male, Novice -1st year wrestler"
+Daniel Assadzadeh,All Saints,61,"Male, Novice -1st year wrestler"
+Irena Velez,All Saints,64,Female
+David Fyneah,All Saints,77,Male
+Jada Banks,Bell,44,Female
+Kennedy Lagrove,Bell,54,Female
+Mackenzie Lagrove,Bell,57.5,Female
+Keiran Rourke,Bell,57.5,Male
+Abdullah Aldisi,Bell,57.5,"Male, Novice -1st year wrestler"
+Dylan Sandarage,Bell,61,Male
+Rohullah Rahmatullah,Bell,61,Male
+Abdullah Abbasi,Bell,61,Male
+Kalvin Nguyen,Bell,61,"Male, Novice -1st year wrestler"
+Niko Forrest,Bell,64,Male
+Reid Sandvold,Bell,64,Male
+Evan Cook,Bell,67.5,Male
+Michael Watson,Bell,67.5,Male
+Dario De-Miguel,Bell,72,"Male, Novice -1st year wrestler"
+Yusef Hamoud,Bell,77,Male
+Omer Kartal,Bell,77,Male
+Saj Polwalta,Bell,77,Male
+Ahmet Karaoglu,Bell,95,Male
+Dina Younes,Brookfield,47.5,"Female, Novice -1st year wrestler"
+Yasmina Younes,Brookfield,47.5,Female
+Alicia Harris,Brookfield,51,Female
+Hannah Muirhead,Brookfield,54,Female
+Jeremiah Basa,Cairine Wilson,54,Male
+Uvernes Somarriba,Cairine Wilson,67.5,Male
+Rana Sanallah,Brookfield,54,"Female, Novice -1st year wrestler"
+James Hayashi,Brookfield,54,Male
+Joseph Makela,Brookfield,54,"Male, Novice -1st year wrestler"
+Karoline Rudzinski,Brookfield,57.5,Female
+Seun Oluwassla,Brookfield,57.5,"Female, Novice -1st year wrestler"
+Alvan Akinmoladun,Brookfield,57.5,Male
+Alvin Akinmoladun,Brookfield,61,Male
+David Carrier,Brookfield,61,"Male, Novice -1st year wrestler"
+Shelby Oderkirk,Brookfield,64,Female
+Emerson Chapman,Brookfield,64,Female
+Emily Cook,Brookfield,64,"Female, Novice -1st year wrestler"
+Jacob Gonzalez,Brookfield,64,"Male, Novice -1st year wrestler"
+Thiago Pippa,Brookfield,64,"Male, Novice -1st year wrestler"
+Pedro Canalejo,Brookfield,67.5,"Male, Novice -1st year wrestler"
+Samey Al-Beajan,Brookfield,77,Male
+Mohammed Ali,Brookfield,77,"Male, Novice -1st year wrestler"
+Taha Chahrour,Brookfield,83,Male
+Eric Cook,Brookfield,95,"Male, Novice -1st year wrestler"
+Caiya Varden,Cairine Wilson,47.5,"Female, Novice -1st year wrestler"
+Cooper Morgan,Cairine Wilson,51,"Male, Novice -1st year wrestler"
+Jason Hill,Cairine Wilson,57.5,Male
+Kiernan Lalande,Cairine Wilson,57.5,"Male, Novice -1st year wrestler"
+Jarrett Wells,Cairine Wilson,61,"Male, Novice -1st year wrestler"
+Maeve Stinson,Cairine Wilson,64,Female
+Trinity Harper,Cairine Wilson,67.5,Female
+Kaitlyn Aubrey,Cairine Wilson,72,"Female, Novice -1st year wrestler"
+Rachel Thomas,Cairine Wilson,77,"Female, Novice -1st year wrestler"
+Cam Dubuc,Cairine Wilson,77,Male
+Carter Love ,Cairine Wilson,77,Male
+Noah Stants,Maurice-Lapointe,41,"Male, Novice -1st year wrestler"
+Simon Desjardins,Maurice-Lapointe,61,"Male, Novice -1st year wrestler"
+Salim Addada,Maurice-Lapointe,72,"Male, Novice -1st year wrestler"
+Jeremy Pare,Maurice-Lapointe,77,"Male, Novice -1st year wrestler"
+Pascal Howes,Maurice-Lapointe,83,Male
+Matthew Vecchio,Maurice-Lapointe,38,Male
+Javier Casanovas,Merivale,41,"Male, Novice -1st year wrestler"
+Jay Jay Efrem,Merivale,51,"Male, Novice -1st year wrestler"
+Billy Boswell,Merivale,54,"Male, Novice -1st year wrestler"
+Charlotte Watkins,Merivale,57.5,"Female, Novice -1st year wrestler"
+Eirini Triantafillou,Merivale,57.5,"Female, Novice -1st year wrestler"
+Chris Silva,Merivale,57.5,Male
+Hayden Spirak,Merivale,57.5,"Male, Novice -1st year wrestler"
+Duncan Smedmor,Merivale,64,"Male, Novice -1st year wrestler"
+Isabella Molina-Tigue,Merivale,72,"Female, Novice -1st year wrestler"
+Michael Shoresh,Merivale,72,"Male, Novice -1st year wrestler"
+Barzin Farahani,Merivale,77,"Male, Novice -1st year wrestler"
+Max Boswell,Merivale,89,"Male, Novice -1st year wrestler"
+Tyson Scott ,Merivale,130,"Male, Novice -1st year wrestler"
+Logan Lemaire,Merivale,95,"Male, Novice -1st year wrestler"
+Matthew Boudreau,Mother Teresa,64,"Male, Novice -1st year wrestler"
+Gillian Diceman,Mother Teresa,72,Female
+Anabelle Murray,Mother Teresa,72,"Female, Novice -1st year wrestler"
+Matthew Billyard,Mother Teresa,83,"Male, Novice -1st year wrestler"
+Jenn Mackean,Sacred Heart,51,Female
+Yallini Deshpande,Sacred Heart,51,"Female, Novice"
+Paul Noble,Sacred Heart,54,Male
+Kaitlyn O'Donnel,Sacred Heart,57.5,"Female, Novice -1st year wrestler"
+Ethan Morris,Sacred Heart,57.5,Male
+Erin o'Neill,Sacred Heart,61,Female
+Max Roxburgh,Sacred Heart,64,Male
+Brendan Proulx,Sacred Heart,72,Male
+Matthew Stoltz,Sacred Heart,77,Male
+Sam Griffin,Sacred Heart,77,Male
+Daniel Douglas,Sacred Heart,77,"Male, Novice -1st year wrestler"
+Evan Walker,Sacred Heart,83,Male
+Matt Stephens,SRB,41,Male
+Ephraim Segal,SRB,41,Male
+Cole Haskins,SRB,47.5,"Male, Novice -1st year wrestler"
+Jessica Hong,SRB,47.5,Female
+Mariam Abdullahi,SRB,51,"Female, Novice -1st year wrestler"
+Warren Jaworski,SRB,54,Male
+Alex Siegman,SRB,54,"Male, Novice -1st year wrestler"
+Jonah Johnston-Nielsen,SRB,54,"Male, Novice -1st year wrestler"
+Joselyn Gu,SRB,57.5,Female
+Devon Bradley,SRB,57.5,"Female, Novice -1st year wrestler"
+Noah Reichstein,SRB,57.5,Male
+Will Lawton,SRB,57.5,"Male, Novice -1st year wrestler"
+Caleb Ramsey,SRB,61,Male
+Connor Sterne,SRB,61,"Male, Novice -1st year wrestler"
+Jeremy Chartrand,SRB,61,"Male, Novice -1st year wrestler"
+Evangelea Touliopoulos,SRB,64,Female
+Anne Khazzam,SRB,64,"Female, Novice -1st year wrestler"
+Blake Valius-Cowan,SRB,64,Male
+Zack Johnson,SRB,64,"Male, Novice -1st year wrestler"
+Liam Kerr,SRB,64,"Male, Novice -1st year wrestler"
+Lauren Kenward,SRB,67.5,Female
+Zack Fiennes,SRB,67.5,"Male, Novice -1st year wrestler"
+Claire Vandesande,SRB,72,Female
+Marina Bayarova,SRB,72,Female
+David Gholak,SRB,72,"Male, Novice -1st year wrestler"
+Adam Parolin,SRB,77,Male
+Tai Liu,SRB,83,Male
+Connor Richardson,SRB,83,"Male, Novice -1st year wrestler"
+Luca Brancatelli,SRB,89,Male
+Fiona Smith,SRB,115,Female
+Payam Saddiq,SRB,130,Male
+Jazla Cook,SWL,51,"Female, Novice -1st year wrestler"
+Emma Peters,SWL,51,"Female, Novice -1st year wrestler"
+Jenna Mollinson,SWL,57.5,Female
+Adam Sayed ,SWL,61,Male
+Rohnan Frei ,SWL,64,Male
+Nicolas Valentin-Malula ,SWL,67.5,"Male, Novice -1st year wrestler"
+Adam Mesheia,SWL,72,"Male, Novice -1st year wrestler"
+Noah Learned,SWL,72,"Male, Novice -1st year wrestler"
+Adam Mesheia ,SWL,72,"Male, Novice -1st year wrestler"
+Henry lake,SWL,77,Male
+Cayden Brown ,SWL,130,Male
